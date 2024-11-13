@@ -19,3 +19,8 @@ This program simulates a bank system where you can create and delete accounts, s
 3. Continue each day or exit as needed.
 
 [Project Link on GDB](https://onlinegdb.com/6Eu_KjbiC)
+[Project Slides on google](https://docs.google.com/presentation/d/11YHFevMYkSLDIV_DuXWzZqUwszX-A1OGL0kFdEMlutI/edit?usp=sharing)
+## Pre builds
+[Bank Management 1.0](https://www.onlinegdb.com/xHHkJke0P)
+[Bank Management 1.5](https://www.onlinegdb.com/tqtgIi_lAK)
+Builds didnt get fully flushed out and were more of concepts then actual programs
