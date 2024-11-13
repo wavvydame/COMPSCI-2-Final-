@@ -6,7 +6,7 @@ Project id: Final Group Project
       Version: 2.0
       Description: This program simulates a Bank's system by allowing you to create and delete bank accounts within your bank. Days and weeks are simulated
       and each account randomly spends money on their accounts. Creditscores and debt is simulated.
-*/
+*/https://onlinegdb.com/6Eu_KjbiC (GDB LINK to use if VS does not load)
 
 #include <iostream>
 #include <vector>
